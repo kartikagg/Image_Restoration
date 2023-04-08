@@ -1,0 +1,10 @@
+medium risk
+building CNN and autoencoder
+qualitative good results
+
+low risk
+image preparation
+build a basic ANN
+
+high risk
+
